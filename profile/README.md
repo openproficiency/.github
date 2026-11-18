@@ -12,7 +12,7 @@ The [Open Proficiency Model (OPM)](https://github.com/openproficiency/model) con
 
 ### Resources
 
-- [Model Schema](https://github.com/openproficiency/opm-go) - the detailed specifications and schemas to enable building custom applications compliant with open proficiency
+- [Model Schema](https://github.com/openproficiency/model) - the detailed specifications and schemas to enable building custom applications compliant with open proficiency
 - [Go Library](https://github.com/openproficiency/opm-go) - native Go types and operations for the full lifecycle of proficiency data
 <!-- - [Typescript Library](https://github.com/openproficiency/opm-go) - native Typescript types and operations for the full lifecycle of proficiency data -->
 
